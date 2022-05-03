@@ -1,5 +1,1 @@
-Finally Deployed in my VMs.
-!!!! Good Job !!!!!
-
-
-Thank You.....!
+Done this using Ansible!!!
